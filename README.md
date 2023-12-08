@@ -1,4 +1,19 @@
-# OpenCSS
+<div align="center" style="font-family:  sans-serif;">
+
+# 𝒪𝓅𝑒𝓃𝒞𝒮𝒮
+
+[![Version](https://img.shields.io/npm/v/opencss.svg)](https://www.npmjs.com/package/opencss)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CodeQL](https://github.com/fiaz-dev/opencss/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/fiaz-dev/opencss/actions/workflows/github-code-scanning/codeql)
+[![Downloads](https://img.shields.io/npm/dt/opencss.svg)](https://www.npmjs.com/package/opencss)
+[![GitHub issues](https://img.shields.io/github/issues/fiaz-dev/opencss.svg)](https://github.com/fiaz-dev/opencss/issues)
+[![GitHub stars](https://img.shields.io/github/stars/fiaz-dev/opencss.svg)](https://github.com/fiaz-dev/opencss/stargazers)
+[![GitHub license](https://img.shields.io/github/license/fiaz-dev/opencss.svg)](https://opensource.org/licenses/MIT)
+[![CodeSee](https://github.com/fiaz-dev/opencss/actions/workflows/codesee-arch-diagram.yml/badge.svg)](https://github.com/fiaz-dev/opencss/actions/workflows/codesee-arch-diagram.yml)
+[![Maintainer](https://img.shields.io/badge/maintainer-fiaz-blue)](https://github.com/fiaz-dev)
+
+</div>
+
 
 OpenCSS is a lightweight and versatile CSS utility library designed to streamline your web development process. With OpenCSS, you can easily manage and apply styles to your HTML elements, helping you create modern and responsive web interfaces.
 
