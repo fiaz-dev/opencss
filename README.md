@@ -28,12 +28,30 @@ OpenCSS is a lightweight and versatile CSS utility library designed to streamlin
 - **Modular Architecture:** The library is modular, allowing you to include only the parts you need, keeping your stylesheets clean and efficient.
 
 ## Installation
+OpenCSS can be easily installed via npm, the Node.js package manager. Ensure that you have Node.js and npm installed on your system before proceeding.
 
-You can install OpenCSS via npm:
+To install OpenCSS globally, allow you to use the opencss command from any directory,
+run the following command in your terminal:
 
 ```bash
 npm install -g opencss
 ```
+
+## Local Installation (for project-specific use)
+
+If you prefer to install OpenCSS locally within a specific project, navigate to your project directory and run:
+```bash
+npm install opencss
+```
+## Verify Installation
+
+After installation, you can verify that OpenCSS is installed by checking its version:
+```bash
+opencss --version
+```
+This should display the installed version of OpenCSS.
+
+
 ## Contributing
 Contributions are welcome! Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md) to ensure a smooth and collaborative development process.
 
