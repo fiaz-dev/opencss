@@ -44,7 +44,7 @@
   },
   "homepage": "https://github.com/fiaz-dev/opencss#readme",
   "devDependencies": {
-    "@babel/core": "^7.23.5",
+    "@babel/core": "^7.23.9",
     "@babel/preset-env": "^7.23.5",
     "@babel/preset-typescript": "^7.23.3",
     "@types/node": "^20.11.13",
